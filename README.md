@@ -1,5 +1,8 @@
-## Hello Developer .. This is Anwar👋 
-
+## Hello Developer .. 👋 
+<ul dir="auto">
+   <li> I’m a senior developer and work on MS Technology stack 😄 </li>
+  <li>🔭 Currently working on React with node </li>
+  <li>🌱 Currently learning GQL Graph Query Language </li>
 <!--
 🔭 I’m currently working on C# 
 **fullstackdeveloper007/fullstackdeveloper007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
